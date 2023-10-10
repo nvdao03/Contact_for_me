@@ -1,0 +1,14 @@
+@media only screen and (max-width: 767px) {
+    .card .avatar-group .avatar-content {
+        left: 29%;
+    }
+
+    .card .info .desc {
+        width: 100%;
+    }
+
+    .card .list-wrap .item {
+        width: 366px;
+        max-width: 100%;
+    }
+}
